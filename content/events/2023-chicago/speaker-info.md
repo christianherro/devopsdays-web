@@ -53,7 +53,7 @@ As a part of the [Global DevOpsDays Organizer Summit](/organizer-summit), all De
 
 If you attend the Organizer Summit Party Event, we will give you your badge and check you in there. This would allow you to skip the registration line at the event. Just make sure to wear your badge to gain admission to the conference!
 
-If you do not attend the Tuesday night event, you will need to check in at the registration desk. Make sure to let them know you are a speaker.
+If you do not attend the Monday night event, you will need to check in at the registration desk. Make sure to let them know you are a speaker.
 
 ### Attendance
 
@@ -144,21 +144,21 @@ Please send your slides (in PDF format) to <chicago@devopsdays.org> no later tha
 
 If you have general questions about the event, please feel free to email <chicago@devopsdays.org> at any time! The main contact for speaker coordination is Christian Herro - <christian@devopsdayschi.org>.
 
-During the actual event (days of August 9-10) the on-premises contact for speaker questions or issues will be Matty Stratton - <matt@devopsdayschi.org> or (312) 361-7611.
+During the actual event (days of August 9-10) the on-premises contact for speaker questions or issues will be Corey Ward - <corey@devopsdayschi.org>.
 
 <!--
 ## DevOpsDays Chicago 2023 Schedule
 
 [(detailed program)](https://devopsdays.org/chicago/program)
 
-| Tuesday, Sept 20th  |                                                                                                                                                                                                 |
+| Monday August 7th  |                                                                                                                                                                                                 |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 6pm-9pm CDT         | Tentative plans for Speaker Event                                                                                                                                                               |
-| Wednesday Sept 21st |                                                                                                                                                                                                 |
+| Tuesday August 8th |                                                                                                                                                                                                 |
 | 8am CDT             | Conference breakfast and sponsors are available.                                                                                                                                                |
 | 9am-5pm CDT         | Conference Day 1 (lunch served)                                                                                                                                                                 |
 | 5pm-7pm  CDT     | Evening event (tentatively planned)  If you want to go out, we suggest you go out after the event. Attendance at the evening event is, of course, optional, but we would love to see you there! |
-| Thursday Sept 22nd  |                                                                                                                                                                                                 |
+| Wednesday August 9th  |                                                                                                                                                                                                 |
 | 8am  CDT            | Conference breakfast and sponsors are available.                                                                                                                                                |
 | 9am-5pm CDT         | Conference Day 2 (lunch served)                                                                                                                                                                 |
 | 5pm-??  CDT         | There are no official activities Wednesday after 5pm CDT. Some sponsors may be hosting happy hour events, but they are not promoted or endorsed by the conference.                              |
